@@ -33,38 +33,9 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-### Objective <img src="https://www.flaticon.com/svg/static/icons/svg/827/827816.svg" width="24px">
+### Objective
 
-The main objective of the project is to create An effective Agric-E-commerce solution where people can buy fresh agriculture product directly from the farmers and let farmers to sell their product without paying extra charges in between as well as grow up their market outside of the locality.
-This will focus on-
-- reducing administrative cost and cycle time, re-organizing farm processes and improving relationships between both business partners and customers.
-- allowing small farms to have access to the same markets as larger farms. That is, small farms can have instant access to international markets.
-- Small farms can grow very quickly and even take on larger farms. They are able to provide personalized services to individuals who visit the site more easily than larger farms.
-
-### Features <img src="https://www.flaticon.com/svg/static/icons/svg/2643/2643513.svg" width="24px">
-
-   -Full featured shopping cart
-  - Product pagination
-  - User profile with orders
-  - Admin product management
-  - Admin user management
-  - Admin Order details page
-  - Mark orders as delivered option
-  - Checkout process (shipping, payment method, etc)
-  - PayPal / credit card integration
-  - Database (products & users)
-
-### Technologies to be Used
-
-   <code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" title="React"></code>
-  <code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" title="NodeJS"></code>
-  <code><img height="50" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" title="ExpressJS"></code>
-  <code><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" title="MongoDB"></code>
-
-
-### Codebase <img src="https://www.flaticon.com/svg/static/icons/svg/3565/3565585.svg" width="24px">
-
-  The entire code has been developed using Javascript programming language and is hosted on Heroku.The website is developed using ReactJs integrated with MongoDB ExpressJS and NodeJS.
+The main objective of the project is to create An effective Agri solution where people can buy fresh agriculture product directly from the farmers and let farmers to sell their product without paying extra charges in between as well as grow up their market outside of the locality.
 
 ### How to run the project 🚀:
 
@@ -77,22 +48,4 @@ This will focus on-
   6. To run the React project. execute `$npm start`. and it will point to the `localhost` server with the port `3000`.
   8. Enter the `IP Address: http://localhost:3000` on a web browser and use the application. make sure that your backend api is running.
 
-
-### Dependencies <img src="https://www.flaticon.com/svg/static/icons/svg/2621/2621122.svg" width="24px">
-
-The following dependencies can be found in [package.json](https://github.com/shsarv/AwareWeGO/blob/master/package.json):
-
-
-### License 
-**MIT License**
-
-
-### Contributors <img src="https://www.flaticon.com/svg/static/icons/svg/1534/1534938.svg" width="24px">
-
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/shsarv"><img src="https://avatars2.githubusercontent.com/u/55739302?s=400&u=1e7714cb1cbe3437a527a877486c94611f0e7ab0&v=4" width="100px;" alt=""/><br /><sub><b>Sarvesh Kumar Sharma</b></sub></a><br /><a href="#" title="Content">🖋</a> <a href="https://github.com/shsarv/UNPLUG-THE-PLAYER/commits?author=shsarv" title="Documentation">📖</a><a href="https://github.com/shsarv/UNPLUG-THE-PLAYER/commits?author=shsarv" title="Code">💻</a></td>
-  <td align="center"><a href="https://github.com/jeeveshgangw"><img src="https://avatars.githubusercontent.com/u/58340678?v=4" width="100px;" alt=""/><br /><sub><b>Jeevesh Gangwar</b></sub></a><br /><a href="https://github.com/shsarv/UNPLUG-THE-PLAYER/commits?author=jeeveshgangw" title="Code">💻</a></td>
-   <tr>
-    <table>
 
