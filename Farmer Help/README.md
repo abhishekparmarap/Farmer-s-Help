@@ -33,19 +33,5 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-### Objective
-
-The main objective of the project is to create An effective Agri solution where people can buy fresh agriculture product directly from the farmers and let farmers to sell their product without paying extra charges in between as well as grow up their market outside of the locality.
-
-### How to run the project 🚀:
-
-  1. Open the `Terminal`.
-  2. Clone the repository by entering `$ git clone https://github.com/shsarv/AwareWeGo.git `.
-  3. Ensure that `NodeJS` and `npm` are installed on the system.
-  4. change the diectory to repository name using  `$ cd AwareGoWe`.
-  4. Create a `.env` file and write `REACT_APP_API_URL='your backend api url'`. look for backend of the project [here]().
-  5. install the dependencies by executing the follwing command: `$ npm install`.
-  6. To run the React project. execute `$npm start`. and it will point to the `localhost` server with the port `3000`.
-  8. Enter the `IP Address: http://localhost:3000` on a web browser and use the application. make sure that your backend api is running.
 
 
